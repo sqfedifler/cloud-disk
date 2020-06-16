@@ -2,56 +2,67 @@ var data = [
 	{
 		id:0,
 		pid:-1,
-		title:"微云"
+		title:"微云",
+		isChecked:false
 	},
 	{
 		id:1,
 		pid:0,
-		title:"我的文档"
+		title:"我的文档",
+		isChecked:false
 	},
 	{
 		id:2,
 		pid:0,
-		title:"我的音乐"
+		title:"我的音乐",
+		isChecked:false
 	},
 	{
 		id:2999,
 		pid:1,
-		title:"js程序设计"
+		title:"js程序设计",
+		isChecked:false
 	},
 	{
 		id:29000,
 		pid:1,
-		title:"js权威指南"
+		title:"js权威指南",
+		isChecked:false
 	},
 	{
 		id:23333,
 		pid:2,
-		title:"王杰"
+		title:"王杰",
+		isChecked:false
 	},
 	{
 		id:244444,
 		pid:2,
-		title:"张国荣"
+		title:"张国荣",
+		isChecked:false
 	},
 	{
 		id:3,
 		pid:2,
-		title:"周杰伦"
+		title:"周杰伦",
+		isChecked:false
 	},
 	{
 		id:4000,
 		pid:3,
-		title:"稻香"
+		title:"稻香",
+		isChecked:false
 	},
 	{
 		id:4,
 		pid:3,
-		title:"发如雪"
+		title:"发如雪",
+		isChecked:false
 	},
 	{
 		id:600,
 		pid:3,
-		title:"夜曲"
+		title:"夜曲",
+		isChecked:false
 	}
 ]

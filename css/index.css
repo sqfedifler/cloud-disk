@@ -270,7 +270,7 @@ img {
 }
 
 /* 文件夹区域 */
-.folders-empty {
+#folders:empty {
     background: #f5f8fa url("../img/cover-bg.png") no-repeat center !important;
 }
 .folder-item {
@@ -446,7 +446,7 @@ img {
     border: 2px solid #55addc;
     border-radius: 10px;
     background: #fff;
-    transition: .2s opacity, 0s .2s top;
+    /*transition: .2s opacity, 0s .2s top;*/
 }
 .move-alert-title {
     font: 16px/44px "微软雅黑";
@@ -493,7 +493,7 @@ img {
     top: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0);
+    background: rgba(0, 0, 0, 0.4);
     display: none;
 } 
 #select-box {
